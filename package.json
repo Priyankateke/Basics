@@ -1,0 +1,19 @@
+{
+  "name": "basicsjs",
+  "version": "1.0.0",
+  "description": "To Learn basics of java script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyankateke/Basics.git"
+  },
+  "author": "Priyanka Teke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Priyankateke/Basics/issues"
+  },
+  "homepage": "https://github.com/Priyankateke/Basics#readme"
+}
